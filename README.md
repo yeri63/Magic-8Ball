@@ -7,6 +7,8 @@ To use, run the program, then think of a yes or no question you would like answe
 
 This version of the Magic 8 Ball uses the same collection of 20 responses as the original, broken down into 10 positive (afirmative), 5 neutral, and 5 negative answers to select from. You'll be sure to see the same familiar responses to those observed in the past. To add realism, the answers shown on screen are split across multiple lines between words, just as the original, in order to fit within the triangular face of the die.
 
+<div align="center">
+  
 Positive | Positive | Neutral | Negative
 :-:      | :-:      | :-:     | :-:
 It is<br />certain. | As I<br />see it. | Reply hazy,<br />try again. | Don't count<br />on it.
@@ -14,3 +16,5 @@ It is<br />decidedly<br />so. | Most<br />likely. | Ask me<br />again<br />later
 Without<br />a doubt. | Outlook<br />good. | Better not<br />tell you<br />now. | My sources<br />say no.
 Yes,<br />definitely. | Yes. | Cannot<br />predict<br />now. | Outlook not<br />so good.
 You may<br />rely on<br />it. | Signs point<br />to yes. | Concentrate<br />and ask again. | Very<br />doubtful.
+
+</div>
