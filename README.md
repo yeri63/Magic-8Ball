@@ -1,6 +1,9 @@
 # Magic 8 Ball
 
+<div align="center">
+
 ![Screenshot of Magic 8 Ball](https://github.com/yeri63/Magic-8Ball/blob/master/8ball.png)
+</div>
 Re-live the antics of the original Magic 8 Ball, now ported to Cisco IP Phones. Instead of a white plastic icosahedron (a polyhedron with 20 faces) die, floating in alcohol dyed dark blue, the phone uses a pseudo-random number generator to determine which message to display on the LCD screen. In the past, the only way to ensure a random message would be to shake the ball first. With this version, that's no longer necessary.
 
 To use, run the program, then think of a yes or no question you would like answered. Press the Shake button below the screen. Look to see your answer revealed. Ask as many questions as you like, repeating this process. To exit, press the Exit button. 
