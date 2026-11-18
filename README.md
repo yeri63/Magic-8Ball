@@ -1,5 +1,4 @@
 # Magic 8 Ball
-
 <div align="center">
 
 ![Screenshot of Magic 8 Ball](8ball.png)
